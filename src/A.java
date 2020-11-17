@@ -8,6 +8,6 @@
 public class A {
     String a;
     String b;
-    String c;
+    String gg;
     String d;
 }
